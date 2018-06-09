@@ -1,6 +1,12 @@
 name: my-website
+output:
+  html_document:
+    theme: readable
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no
 navbar:
-  title: YEAQ innovation
+  title: <div style="color:black; font-size:110%"><img src="EA_Logo.png" height="30" width = "30"></img> <b>&nbsp;YEA Innovation</b></div>
   left:
   - text: wrap-up
     href: index.html
@@ -11,8 +17,4 @@ navbar:
   - text: up next
     href: collaboration.html
 output_dir: "docs"
-output:
-  html_document:
-    lib_dir: site_libs
-    self_contained: no
 
