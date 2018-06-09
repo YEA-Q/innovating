@@ -1,0 +1,16 @@
+---
+title: "Panel discussion summary"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 5
+---
+
+The following is a brief and fairly candid record of some of the interesting discussion topics and key take home messages and insights from last months innovation event.
+
+The panel was deftly chaired by Rob Hoffman, Vice Chair of Young Engineers Australia Queensland starting 5 minutes early and finished on time with the sudden chatter that followed indicative of the success of the evening at provoking the kind of thought and discussion it had intended.
+
+The 
+
+
