@@ -7,10 +7,24 @@ output:
     toc_depth: 5
 ---
 
-The following is a brief and fairly candid record of some of the interesting discussion topics and key take home messages and insights from last months innovation event.
+The panel was deftly chaired by __Rob Hoffman__, Vice Chair of Young Engineers Australia Queensland, sitting in the centre along with the team of innovative panellists (from left to right):
 
-The panel was deftly chaired by Rob Hoffman, Vice Chair of Young Engineers Australia Queensland starting 5 minutes early and finished on time with the sudden chatter that followed indicative of the success of the evening at provoking the kind of thought and discussion it had intended.
+***
 
-The 
+[__Julie Mitchell__](https://www.linkedin.com/in/julie-mitchell-7a235614/) -- Deputy Director-General, Department of Transport and Main Roads\ 
 
+[__Kellie Nuttall__](https://www2.deloitte.com/au/en/profiles/kellie-nuttall.html) -- Partner, Consulting Deloitte\
+
+[__Ryan Stuart__](https://www.linkedin.com/in/rstuart85) -- CEO & founder, Kapiche\
+
+[__James Gilmour__](https://www.linkedin.com/in/james-gilmour-75208b16/) -- Director, Gilmour Space Technologies\
+
+
+***
+
+As the audience descended to feed and water after the last question, the loud chatter marked the night a success, full of insight and provoked thought.
+
+The following is a brief and fairly candid record of some of the interesting discussion topics and key take home messages and insights from the innovating with uncertainty event.
+
+Hosted by Young Engineers Australia Queensland, Transport Australia Society, Innovation in Engineering and College of Leadership and Management we would like to thank you for joining us as well as our Principal Event Partner, Queensland Government Department of Transport and Main Roads and sponsor Bechtel.
 
